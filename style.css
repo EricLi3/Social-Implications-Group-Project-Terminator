@@ -4,7 +4,7 @@ h1 {
 
 /* Style your navigation bar */
 nav {
-    background-color: #333;
+    background-color: rgb(201, 154, 107);
     color: white;
     text-align: center;
     padding: 10px;
@@ -18,8 +18,9 @@ nav a:hover {
     text-decoration:solid;
 }
 body {
-    background-color: bisque;
+    background-color: #F6F7EB;
 }
+
 /* Style your timeline plot and other content */
 #timeline {
     /* Add styles for your timeline plot */
